@@ -1,5 +1,5 @@
 {
-  "name": "taskmanager",
+  "name": "tupaca",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,11 +10,25 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@mui/icons-material": "^5.14.0",
+    "@mui/material": "^5.14.0",
+    "@mui/styled-engine-sc": "^5.12.0",
+    "bootstrap": "^5.3.0",
+    "immer": "^10.0.2",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-beautiful-dnd": "^13.1.1",
+    "react-dom": "^18.2.0",
+    "react-hook-form": "^7.45.1",
+    "react-router-dom": "^6.14.1",
+    "reactstrap": "^9.2.0",
+    "styled-components": "^5.3.11"
   },
   "devDependencies": {
+    "@types/axios": "^0.14.0",
     "@types/react": "^18.2.14",
+    "@types/react-beautiful-dnd": "^13.1.4",
     "@types/react-dom": "^18.2.6",
     "@typescript-eslint/eslint-plugin": "^5.61.0",
     "@typescript-eslint/parser": "^5.61.0",

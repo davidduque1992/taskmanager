@@ -1,0 +1,38 @@
+.fondo-card-blanco {
+  background: #d3d2d2;
+  /* margin: 1%; */
+  border-radius: 2%;
+}
+
+.min-witth-card {
+  border: "1px solid red";
+  min-width: 95vw;
+  margin-bottom: 1%;
+}
+
+@media (min-width: 600px) and (max-width: 959px) {
+  .min-witth-card {
+    min-width: 90vw;
+    margin-bottom: 1%;
+  }
+}
+
+@media (min-width: 960px) and (max-width: 1279px) {
+  .min-witth-card {
+    min-width: 80vw;
+    margin-bottom: 1%;
+  }
+}
+
+@media (min-width: 1280px) and (max-width: 1919px) {
+  .min-witth-card {
+    min-width: 70vw;
+    margin-bottom: 1%;
+  }
+}
+
+@media (min-width: 1920px) {
+  .min-witth-card {
+    min-width: 60vw;
+  }
+}
