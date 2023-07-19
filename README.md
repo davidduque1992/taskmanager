@@ -36,5 +36,3 @@ Pasos:
 4. Prueba la aplicación:
    - Copia una de las URLs que aparecen en la salida de la terminal en tu navegador.
    - Comienza a explorar y probar la aplicación.
-
-Puedes copiar y pegar este contenido completo en el archivo `README.md` de tu repositorio en GitHub.
