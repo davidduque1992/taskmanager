@@ -4,6 +4,8 @@ Este es un proyecto de prueba en TypeScript que incluye un servidor y un cliente
 
 Requisitos previos:
 - XAMPP Server: Descarga XAMPP Server desde el siguiente enlace: [link](https://www.apachefriends.org/download.html). Después de descargarlo, abre el panel de control de XAMPP y ejecuta los servicios de Apache y MySQL.
+- Abre el gestor de  db phpmyadmin  con el link: [link](http://localhost/phpmyadmin). para acceder a la base de datos  con el user: root  sin colocar contraseña.
+- importa la base de datos desde el panel  superior donde dide importar.
 - Node.js: Descarga Node.js desde el siguiente enlace: [link](https://nodejs.org/en/download/). Selecciona la versión adecuada para tu sistema operativo y procede a la instalación.
 
 Pasos:
